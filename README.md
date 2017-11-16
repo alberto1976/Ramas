@@ -4,8 +4,6 @@
 
 ## ¿Qué son Git y GitHub?
 
-Cambio desde GitHub
-
 Git es un programa de línea de comandos que le permite rastrear versiones de cualquier código o
 documento de texto plano que usted cree. Al igual que la función "Control de cambios" de
 un procesador de textos, Git realiza un seguimiento de quién hizo cambios particulares, el tiempo y
