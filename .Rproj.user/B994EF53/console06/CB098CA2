@@ -3,4 +3,197 @@
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
 Hub/Institucional/Ramas[0;36m (master)[0m[0K
 $ git[0K[?25h[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/E2226464.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/INDEX.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-31B899EF/8CE[0K2[?25l
+AF1E.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-31B899EF/E5B[0K1[?25l
+9A05.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-31B899EF/E5B[0K1[?25l
+9A05-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "p"[0K[19G[?25h[?25l$ git commit -m "pr"[0K[20G[?25h[?25l$ git commit -m "pru"[0K[21G[?25h[?25l$ git commit -m "prue"[0K[22G[?25h[?25l$ git commit -m "prueb"[0K[23G[?25h[?25l$ git commit -m "prueba"[0K[24G[?25h[?25l
+[0K[?25h[master 72fc056] prueba[0K[?25l
+ 12 files changed, 1673 insertions(+)[0K
+ create mode 100644 .Rproj.user/B994EF53/console06/CB098CA2[0K
+ create mode 100644 .Rproj.user/B994EF53/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/E2226464[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-31B899EF/8CE2AF1E[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-31B899EF/8CE2AF1E-contents[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05-contents[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-31B899EF/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 Ramas.Rproj[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': a[0K[?25hl[0Kb[0Ke[0Kr[0Kt[0Ko[0K1[0K9[0K7[0K6[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://alberto1976@github.com':[0K[48G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 19, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (16/16), done.[0K
+Writing objects: 100% (19/19), 18.68 KiB | 4.67 MiB/s, done.[0K
+Total 19 (delta 1), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (1/1), done.[0K[?25l
+[0K[?25hTo https://github.com/alberto1976/Ramas.git[0K[?25l
+   767f043..72fc056  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "added two files"[0K[?25h[33G[?25l$ git commit -m "added two file"[0K[32G[?25h[?25l$ git commit -m "added two fil"[0K[31G[?25h[?25l$ git commit -m "added two fi"[0K[30G[?25h[?25l$ git commit -m "added two f"[0K[29G[?25h[?25l$ git commit -m "added two "[0K[28G[?25h[?25l$ git commit -m "added two"[0K[27G[?25h[?25l$ git commit -m "added tw"[0K[26G[?25h[?25l$ git commit -m "added t"[0K[25G[?25h[?25l$ git commit -m "added "[0K[24G[?25h[?25l$ git commit -m "added"[0K[23G[?25h[?25l$ git commit -m "adde"[0K[22G[?25h[?25l$ git commit -m "add"[0K[21G[?25h[?25l$ git commit -m "ad"[0K[20G[?25h[?25l$ git commit -m "a"[0K[19G[?25h[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "S"[0K[19G[?25h[?25l$ git commit -m "Se"[0K[20G[?25h[?25l$ git commit -m "Se "[0K[21G[?25h[?25l$ git commit -m "Se a"[0K[22G[?25h[?25l$ git commit -m "Se ad"[0K[23G[?25h[?25l$ git commit -m "Se adi"[0K[24G[?25h[?25l$ git commit -m "Se adic"[0K[25G[?25h[?25l$ git commit -m "Se adici"[0K[26G[?25h[?25l$ git commit -m "Se adicio"[0K[27G[?25h[?25l$ git commit -m "Se adicion"[0K[28G[?25h[?25l$ git commit -m "Se adiciona"[0K[29G[?25h[?25l$ git commit -m "Se adiciona "[0K[30G[?25h[?25l$ git commit -m "Se adiciona t"[0K[31G[?25h[?25l$ git commit -m "Se adiciona te"[0K[32G[?25h[?25l$ git commit -m "Se adiciona tex"[0K[33G[?25h[?25l$ git commit -m "Se adiciona text"[0K[34G[?25h[?25l$ git commit -m "Se adiciona texto"[0K[35G[?25h[?25l$ git commit -m "Se adiciona texto "[0K[36G[?25h[?25l$ git commit -m "Se adiciona texto e"[0K[37G[?25h[?25l$ git commit -m "Se adiciona texto en"[0K[38G[?25h[?25l$ git commit -m "Se adiciona texto en "[0K[39G[?25h[?25l$ git commit -m "Se adiciona texto en l"[0K[40G[?25h[?25l$ git commit -m "Se adiciona texto en li"[0K[41G[?25h[?25l$ git commit -m "Se adiciona texto en lin"[0K[42G[?25h[?25l$ git commit -m "Se adiciona texto en line"[0K[43G[?25h[?25l$ git commit -m "Se adiciona texto en linea"[0K[44G[?25h[?25l$ git commit -m "Se adiciona texto en linea "[0K[45G[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[46G[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/CB098CA2[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/E2226464[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05-contents[0m[0K
+        [0;31mmodified:   README.md[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': a[0K[?25hl[0Kb[0Ke[0Kr[0Kt[0Ko[0K1[0K9[0K7[0K6[0K[?25l
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+Password for 'https://alberto1976@github.com':[0K[48G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+Everything up-to-date[0K
+Branch master set up to track remote branch master from origin.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': a[0K[?25hl[0Kb[0Ke[0Kr[0Kt[0Ko[0K1[0K9[0K7[0K6[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://alberto1976@github.com':[0K[48G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+Everything up-to-date[0K
+Branch master set up to track remote branch master from origin.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[46G[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/CB098CA2[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/E2226464[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05-contents[0m[0K
+        [0;31mmodified:   README.md[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/CB098CA2[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/E2226464[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05-contents[0m[0K
+        [0;31mmodified:   README.md[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea 7[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea[0K[45G[?25h[44G[?25l$ git commit -m "Se adiciona texto en line[0K[?25h[?25l$ git commit -m "Se adiciona texto en lin[0K[?25h[?25l$ git commit -m "Se adiciona texto en li[0K[?25h[?25l$ git commit -m "Se adiciona texto en l[0K[?25h[?25l$ git commit -m "Se adiciona texto en[0K[39G[?25h[38G[?25l$ git commit -m "Se adiciona texto e[0K[?25h[?25l$ git commit -m "Se adiciona texto[0K[36G[?25h[35G[?25l$ git commit -m "Se adiciona text[0K[?25h[?25l$ git commit -m "Se adiciona tex[0K[?25h[?25l$ git commit -m "Se adiciona te[0K[?25h[?25l$ git commit -m "Se adiciona t[0K[?25h[?25l$ git commit -m "Se adiciona[0K[30G[?25h[29G[?25l$ git commit -m "Se adicion[0K[?25h[?25l$ git commit -m "Se adicio[0K[?25h[?25l$ git commit -m "Se adici[0K[?25h[?25l$ git commit -m "Se adic[0K[?25h[?25l$ git commit -m "Se adi[0K[?25h[?25l$ git commit -m "Se ad[0K[?25h[?25l$ git commit -m "Se a[0K[?25h[?25l$ git commit -m "Se[0K[21G[?25h[20G[?25l$ git commit -m "S[0K[?25h[?25l$ git commit -m "[0K[?25h[?25l$ git commit -m[0K[17G[?25h[16G[?25l$ git commit -[0K[?25h[?25l$ git commit[0K[14G[?25h[13G[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/CB098CA2[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/E2226464[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05-contents[0m[0K
+        [0;31mmodified:   README.md[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[10G[?25l$ git ad[0K[?25h[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25ha[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/E2226464.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-31B899EF/E5B[0K1[?25l
+9A05.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-31B899EF/E5B[0K1[?25l
+9A05-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25herror: cannot spawn vi: No such file or directory[0K[?25l
+error: unable to start editor 'vi'[0K
+Please supply the message using either -m or -F option.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/CB098CA2[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/E2226464[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05-contents[0m[0K
+        [0;31mmodified:   README.md[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git status[0K[?25h[?25l$ git commit -a[0K[?25h[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hn[0Ku[0Ke[0Kv[0Ko[0K[24G[?25l$ git commit -m "nuevo c[0K[?25ha[0Km[0Kb[0Ki[0Ko[0K"[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/CB098CA2[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/E2226464[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05-contents[0m[0K
+        [0;31mmodified:   README.md[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "nuevo cambio"[0K[?25h[?25l$ git status[0K[?25h[?25l$ git commit -a[0K[?25h[?25l$ git status[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "prueba"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ cd[0K[?25h[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
