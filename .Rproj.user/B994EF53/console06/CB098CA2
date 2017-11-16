@@ -196,4 +196,64 @@ no changes added to commit[0K
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
 Hub/Institucional/Ramas[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git commit -m "nuevo cambio"[0K[?25h[?25l$ git status[0K[?25h[?25l$ git commit -a[0K[?25h[?25l$ git status[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "prueba"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ cd[0K[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/E2226464.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-31B899EF/E5B[0K1
+9A05.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-31B899EF/E5B[0K1
+9A05-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes to be committed:[0K
+  (use "git reset HEAD <file>..." to unstage)[0K
+[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/console06/CB098CA2[0m[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/sources/prop/E2226464[0m[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05[0m[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/sources/s-31B899EF/E5B19A05-contents[0m[0K
+        [0;32mmodified:   README.md[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/CB098CA2[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git status[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git commit -m "nuevo cambio"[0K[?25h[?25l
+[0K[?25h[master 98537eb] nuevo cambio[0K[?25l
+ 6 files changed, 201 insertions(+), 8 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (67%)[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "nuevo cambio"[0K[?25h[?25l$ git status[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git commit -m "nuevo cambio"[0K[?25h[?25l$ git status[0K[?25h[?25l$ git commit -a[0K[?25h[?25l$ git status[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "prueba"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "Se adiciona texto en linea 7"[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': a[0K[?25hl[0Kb[0Ke[0Kr[0Kt[0Ko[0K1[0K9[0K7[0K6[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://alberto1976@github.com':[0K[48G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 13, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (13/13), done.[0K
+Writing objects: 100% (13/13), 3.20 KiB | 1.60 MiB/s, done.[0K
+Total 13 (delta 3), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K[?25l
+[0K[?25hTo https://github.com/alberto1976/Ramas.git[0K[?25l
+   72fc056..98537eb  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Repositorios Gi[0Kt
+Hub/Institucional/Ramas[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
